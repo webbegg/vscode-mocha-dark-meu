@@ -1,0 +1,50 @@
+{
+  "name": "base16-mocha-meu",
+  "displayName": "Base16 mocha-meu theme",
+  "description": "Base 16 mocha dark based",
+  "version": "0.9.8",
+  "publisher": "webbegg",
+  "author": {
+    "name": "Marcos Juan",
+    "email": "webbegg@gmail.com",
+    "url": "http://webbegg.com"
+  },
+  "keywords": [
+    "base16",
+    "dark"
+  ],
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "icon": "base16.png",
+  "galleryBanner": {
+    "color": "#7eafc1",
+    "theme": "light"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webbegg/vscode-mocha-dark-meu"
+  },
+  "bugs": {
+    "url": "https://github.com/webbegg/vscode-mocha-dark-meu/issues"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Base16 Mocha-meu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mocha-dark-meu.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "",
+    "publisherId": "",
+    "publisherDisplayName": "Marcos Juan - webbegg"
+  }
+}
