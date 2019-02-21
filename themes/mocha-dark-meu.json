@@ -82,6 +82,7 @@
     "editorRuler.foreground": "#7e705a",
     "editorCodeLens.foreground": "#645240",
     "editorBracketMatch.background": "#645240",
+    "editorOverviewRuler.border": "#181818",
     "editorOverviewRuler.findMatchForeground": "#f4bc87",
     "editorOverviewRuler.rangeHighlightForeground": "#7e705a",
     "editorOverviewRuler.selectionHighlightForeground": "#645240",
