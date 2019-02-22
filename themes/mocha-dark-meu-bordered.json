@@ -1,0 +1,11 @@
+{
+  "name": "Base16 Mocha Meu (Bordered)",
+  "type": "dark",
+  "include": "./mocha-dark-meu.json",
+  "colors": {
+    "sideBar.border": "#181818",
+    "activityBar.border": "#181818",
+    "statusBar.border": "#181818",
+    "titleBar.border": "#181818"
+  }
+}
