@@ -3,6 +3,7 @@
   "type": "dark",
   "colors": {
     "foreground": "#d0c8c6",
+    "focusBorder": "#111111",
     "widget.shadow": "#181818",
     "selection.background": "#575757",
     "errorForeground": "#cb6077",
